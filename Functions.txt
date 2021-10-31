@@ -1,0 +1,6 @@
+BaseGameLayer::init -> _ZN15GJBaseGameLayer4initEv
+CreatorLayer::init -> _ZN12CreatorLayer4initEv
+FLAlertLayer::show -> _ZN12FLAlertLayer4showEv
+LevelSearchLayer::init -> _ZN16LevelSearchLayer4initEv
+MenuLayer::init -> _ZN9MenuLayer4initEv
+PauseLayer::init -> _ZN10PauseLayer4initEb
